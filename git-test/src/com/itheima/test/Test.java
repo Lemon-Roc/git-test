@@ -15,4 +15,10 @@ public class Test {
         System.out.println("sdvasodiad");
         System.out.println("sdvasodiad");
     }
+
+
+    public void tyyu(){
+        int i = 0;
+        i+=10;
+    }
 }
